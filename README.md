@@ -1,4 +1,4 @@
-## Hi there, I'm Shamu!👋
+## Hi there, I'm Shamu! 👋
 
 ### 🌟 Fullstack Developer | Java & Spring AI Specialist in the making
 
@@ -14,6 +14,7 @@ Currently immersed in a high-intensity Fullstack journey, focusing on:
 Every week is a new sprint. I’m constantly sharpening my skills through intensive coding exercises and real-world project builds 📈
 ---
 ## 🛠️ My Digital Toolbelt
+
 
 
 | Backend & AI | Frontend & Design | Tools & Workflow |
@@ -32,9 +33,9 @@ Every week is a new sprint. I’m constantly sharpening my skills through intens
 
 ---
 
-- ### 🌐 Let's Connect!
-[![LinkedIn](https://www.linkedin.com/in/shanmu-sundari/)]
-[![Email](sunsarav16@gmail.com)]
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+[![Email](https://img.shields.io)](mailto:sunsarav16@gmail.com)
 
 ---
 *“Coding is a team sport, and I’m here to play, learn, and win together!”* 🚀
