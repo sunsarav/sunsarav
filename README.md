@@ -12,17 +12,6 @@ Currently immersed in a high-intensity Fullstack journey, focusing on:
 *   **Interactive Frontend:** Crafting responsive UIs with **JavaScript**, **React**, and **TailwindCSS**.
   
 Every week is a new sprint. I’m constantly sharpening my skills through intensive coding exercises and real-world project builds 📈
----
-## 🛠️ My Digital Toolbelt
-
-
-
-| Backend & AI | Frontend & Design | Tools & Workflow |
-| :--- | :--- | :--- |
-| ![Java](https://img.shields.io) | ![React](https://img.shields.io) | ![Git](https://img.shields.io) |
-| ![Spring](https://img.shields.io) | ![Tailwind](https://img.shields.io) | ![GitHub](https://img.shields.io) |
-| ![MySQL](https://img.shields.io) | ![JavaScript](https://img.shields.io) | ![Canva](https://img.shields.io) |
-| **Spring AI** | **HTML5 & CSS3** | **RESTful APIs** |
 
 ---
 ## 🤝 Collaborative Strengths
@@ -34,13 +23,25 @@ Every week is a new sprint. I’m constantly sharpening my skills through intens
 ---
 
 ## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
-[![Email](https://img.shields.io)](mailto:sunsarav16@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/shanmu-sundari/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunsarav16@gmail.com)
 
 ---
-### 💻 Tech Stack
 
-![Java](https://img.shields.io) ![Spring](https://img.shields.io) ![JavaScript](https://img.shields.io) ![React](https://img.shields.io) ![HTML5](https://img.shields.io) ![CSS3](https://img.shields.io) ![Tailwind](https://img.shields.io) ![MySQL](https://img.shields.io) ![Git](https://img.shields.io) ![GitHub](https://img.shields.io) ![Canva](https://img.shields.io)
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 *“Coding is a team sport, and I’m here to play, learn, and win together!”* 🚀
