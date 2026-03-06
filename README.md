@@ -38,4 +38,9 @@ Every week is a new sprint. I’m constantly sharpening my skills through intens
 [![Email](https://img.shields.io)](mailto:sunsarav16@gmail.com)
 
 ---
+### 💻 Tech Stack
+
+![Java](https://img.shields.io) ![Spring](https://img.shields.io) ![JavaScript](https://img.shields.io) ![React](https://img.shields.io) ![HTML5](https://img.shields.io) ![CSS3](https://img.shields.io) ![Tailwind](https://img.shields.io) ![MySQL](https://img.shields.io) ![Git](https://img.shields.io) ![GitHub](https://img.shields.io) ![Canva](https://img.shields.io)
+
+---
 *“Coding is a team sport, and I’m here to play, learn, and win together!”* 🚀
