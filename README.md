@@ -1,27 +1,39 @@
 # Hi there, I'm Shamu! 👋
 
-## 🤖 Fullstack Developer | Java & Spring AI Specialist in the making
+## 🤖 Fullstack Developer | Java & Spring Boot Enthusiast
 
-I am a Fullstack Developer in training, blending Java logic with Modern AI to build clean, user-focused applications. I’m all about writing code that works and building teams that win 💻✨
+![](https://komarev.com/ghpvc/?username=sunsarav&color=blue)
+
+I enjoy building clean backend systems, modern web interfaces, and exploring AI-powered applications ✨
 
 ---
-## 🌱 What I’m Mastering Right Now
-Currently immersed in a high-intensity Fullstack journey, focusing on:
-*   **Modern Backend:** Architecting robust systems with **Java**, **Spring Boot**, and **SQL**.
-*   **The AI Frontier:** Integrating **Generative AI** using **Spring AI** and advanced **Prompt Engineering**.
-*   **Interactive Frontend:** Crafting responsive UIs with **JavaScript**, **React**, and **TailwindCSS**.
+## 🌱 What I'm Learning & Building
+
+Currently sharpening my Fullstack development skills by building real-world applications:
+
+- **Backend:** Java, Spring Boot, REST APIs, and SQL
+- **AI Integration:** Exploring Generative AI with Spring AI & Prompt Engineering
+- **Frontend:** React, JavaScript, and TailwindCSS for modern UI
+- **Fullstack Projects:** Connecting backend logic with responsive user experiences
+
+Every week I focus on learning, building, and improving through hands-on projects 📈
   
-Every week is a new sprint. I’m constantly sharpening my skills through intensive coding exercises and real-world project builds 📈
+---
+## 🤝 How I Work in Teams
+
+- **Clear Communicator** – I simplify complex technical ideas for smooth collaboration
+- **Problem Solver** – I approach bugs and challenges with curiosity and persistence
+- **Fast Learner** – Comfortable adapting to new tools and frameworks quickly
+- **Team Player** – I enjoy building positive, supportive, and productive teams
 
 ---
-## 🤝 Collaborative Strengths
-*   **Clear Communicator:** I excel at breaking down technical concepts for diverse audiences.
-*   **Solution-Oriented:** I view every bug as a learning opportunity and every challenge as a way to innovate.
-*   **Adaptive & Fast-Paced:** Quick to pivot and master new frameworks in evolving environments.
-*   **Positive Catalyst:** Committed to maintaining a motivated, energized, and humorous team culture.
+## 📌 Featured Projects
 
----
+- 🔹 **AI Assistant App** – Spring Boot + Spring AI  
+- 🔹 **Fullstack Task Manager** – React + Java + MySQL  
+- 🔹 **REST API Project** – Secure backend with Spring Boot
 
+---  
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/shanmu-sundari/))
@@ -44,4 +56,11 @@ Every week is a new sprint. I’m constantly sharpening my skills through intens
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+![Shamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
 *“Coding is a team sport, and I’m here to play, learn, and win together!”* 🚀
