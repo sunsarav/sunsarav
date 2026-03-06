@@ -1,6 +1,6 @@
 ## Hi there, I'm Shamu! 👋
 
-### 🌟 Fullstack Developer | Java & Spring AI Specialist in the making
+### 🔭 Fullstack Developer | Java & Spring AI Specialist in the making
 
 I am a Fullstack Developer in training, blending Java logic with Modern AI to build clean, user-focused applications. I’m all about writing code that works and building teams that win 💻✨
 
