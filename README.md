@@ -59,8 +59,9 @@ Every week I focus on learning, building, and improving through hands-on project
 
 ## 📊 GitHub Stats
 
-![Shamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Shamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsarav&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsarav&layout=compact&theme=tokyonight)
+
 
 *“Coding is a team sport, and I’m here to play, learn, and win together!”* 🚀
