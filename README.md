@@ -2,8 +2,6 @@
 
 ## 🤖 Fullstack Developer | Java & Spring Boot Enthusiast
 
-![](https://komarev.com/ghpvc/?username=sunsarav&color=blue)
-
 I enjoy building clean backend systems, modern web interfaces, and exploring AI-powered applications ✨
 
 ---
@@ -27,13 +25,7 @@ Every week I focus on learning, building, and improving through hands-on project
 - **Team Player** – I enjoy building positive, supportive, and productive teams
 
 ---
-## 📌 Featured Projects
-
-- 🔹 **AI Assistant App** – Spring Boot + Spring AI  
-- 🔹 **Fullstack Task Manager** – React + Java + MySQL  
-- 🔹 **REST API Project** – Secure backend with Spring Boot
-
----  
+ 
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/shanmu-sundari/))
