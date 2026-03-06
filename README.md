@@ -1,4 +1,4 @@
-### Hi there, I'm Shamu! 👋
+# Hi there, I'm Shamu! 👋
 
 ## 🤖 Fullstack Developer | Java & Spring AI Specialist in the making
 
