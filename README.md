@@ -43,22 +43,4 @@ Every week I focus on learning, building, and improving through hands-on project
 
 ---
 
-## 📊 GitHub Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sunsarav&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sunsarav&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sunsarav&show_icons=true" />
-</picture>
-
-
-
-
-
 *“Coding is a team sport, and I’m here to play, learn, and win together!”* 🚀
